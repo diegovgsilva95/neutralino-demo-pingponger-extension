@@ -1,0 +1,8 @@
+body {
+    background: #111;
+    color: #ccc;
+    font-family: "DejaVu Sans", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

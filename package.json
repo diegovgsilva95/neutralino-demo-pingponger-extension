@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "neutralinojs-types": "^2.0.0"
+  }
+}
